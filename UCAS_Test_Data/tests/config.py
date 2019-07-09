@@ -1,7 +1,0 @@
-baseurl = ""
-host = ""
-browser = ""
-browserversion = ""
-os = ""
-osversion = ""
-resolution = ""
